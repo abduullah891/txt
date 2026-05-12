@@ -1,0 +1,3 @@
+mv ~/.config/hypr ~/.config/hypr-old
+mkdir -p ~/.config/hypr
+cp /usr/share/hyprland/hyprland.conf ~/.config/hypr/
